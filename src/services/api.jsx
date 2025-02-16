@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8082/verse";
+const API_URL = "https://mern-test-2-backend.onrender.com/verse";
 const ENDPOINTS = {
   LOGIN: "/auth/login",
   SIGNUP: "/auth/register",
